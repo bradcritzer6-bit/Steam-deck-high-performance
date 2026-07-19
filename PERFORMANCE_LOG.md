@@ -8,5 +8,5 @@
 **Power Management:** Ultimate Performance policy enabled via 'powercfg'.
  
 ##Techinical Evidence
-![OBS Stats]()
-![Power Policy]()
+[OBS Stats](Screenshot 2026-07-19 102645.png)
+[Power Policy](Screenshot 2026-07-19 105158.png)
