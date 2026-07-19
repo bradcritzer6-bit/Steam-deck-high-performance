@@ -2,7 +2,7 @@
 ## Overview
 "A technical case study on Engineering a high-availability streaming environment on mobile hardware for 168-hour endurance broadcast."
 ## System Architecture
-* **Hardware**: Steam Deck LCD, daisy-chainedUGREEN dock, 1tb Crucial NVME SSD.
+* **Hardware**: Steam Deck LCD, daisy-chained UGREEN dock, 1tb Crucial NVME SSD.
 * * *Operating System**: Dual-boot configuration (Windows 11 Pro / SteamOS) implemented via Clover.
   * * **Software Enviromentt**: DE-bloated Windows 11 Pro (custom optimized) and driver only AMD Adrenalin (RX 760 installation.
     * Engineering Challenges
