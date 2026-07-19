@@ -4,7 +4,7 @@
 ## System Architecture
 * **Hardware**: Steam Deck LCD, daisy-chained UGREEN dock, 1tb Crucial NVME SSD.
 * * *Operating System**: Dual-boot configuration (Windows 11 Pro / SteamOS) implemented via Clover.
-  * * **Software Enviromentt**: DE-bloated Windows 11 Pro (custom optimized) and driver only AMD Adrenalin (RX 760 installation.
+  * * **Software Enviroment**: DE-bloated Windows 11 Pro (custom optimized) and driver only AMD Adrenalin (RX 760 installation.
     * Engineering Challenges
     * * **Resource Optimization** Implemented custom power management via Windows Terminal ('powercfg') to stabalize clock speeds and mitigate thermal throttling.
       * * **Performance Tuning**: Adressed micro-stuttering and encoding bottlenecks by configuring OBS studio for high-avalibilty performance within a constrained mobile thermal envelope.
